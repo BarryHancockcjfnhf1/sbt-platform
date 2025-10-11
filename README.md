@@ -35,3 +35,5 @@ Provides access to cSBT collections minted via TON Society in your project. This
 
 **[oAuth requests](https://github.com/ton-society/sbt-platform/blob/main/oauth.md)**<br />
 Allows apps to get users profile data and badge info via oAuth.
+
+<!-- Auto-update: 2025-10-11T13:52:52.564521 -->
