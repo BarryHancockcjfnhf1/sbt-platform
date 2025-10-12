@@ -90,3 +90,5 @@ This standard proposal aims to align the metadata of SBTs issued on TON both by 
 | attributes | Additional attributes you want to add. They will be displayed for SBT on marketplaces and at user wallets | Optional. **Do not put any personal user data like wallet address, telegram username, etc**. Input the data as ```trait_type: value``` array. Example: ```"attributes": [{"trait_type": "Organizer","value": "TON Society Asia"},{"trait_type": "Date","value": "22 Feb 2024"},{"trait_type": "Place","value": "Hong Kong, Hong Kong"}]```
 
 <!-- Auto-update: 2025-10-06T16:12:11.713694 -->
+
+<!-- Auto-update: 2025-10-12T12:43:29.569715 -->
